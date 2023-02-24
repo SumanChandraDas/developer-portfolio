@@ -76,3 +76,84 @@ nav ul li {
     margin-bottom: 30px;
 
 }
+
+/* main section style  */
+main {
+    max-width: 1140px;
+    margin: 0 auto;
+}
+
+/* about section style  */
+.about-me {
+    margin-top: 130px;
+    padding: 130px 155px;
+    background: #FFF8F3;
+    border-radius: 10px;
+    text-align: center;
+
+}
+
+.section-title {
+    font-weight: 700;
+    font-size: 35px;
+    margin-bottom: 30px;
+    color: #181818;
+    text-align: center;
+
+}
+
+.section-description {
+    font-weight: 400;
+    font-size: 18px;
+    color: #757575;
+}
+
+.about-info-container {
+    margin-top: 30px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.about-info .info-name {
+    font-weight: 400;
+    font-size: 20px;
+    color: #757575;
+}
+
+.about-info .info-description {
+    font-weight: 700;
+    font-size: 20px;
+    color: #474747;
+}
+
+/* what i do section start  */
+.what-i-do {
+    margin-top: 130px;
+}
+
+.what-i-do-description {
+    font-weight: 400;
+    font-size: 18px;
+    text-align: center;
+    color: #757575;
+}
+
+.skil-container {
+    margin-top: 50px;
+    display: flex;
+    gap: 20px;
+}
+
+.skil {
+    padding: 30px;
+    background: #FFFFFF;
+    box-shadow: 0px 6px 50px rgba(0, 0, 0, 0.06);
+    border-radius: 5px;
+}
+
+.skil-title {
+    font-weight: 700;
+    font-size: 20px;
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
